@@ -1,8 +1,62 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🦕 Dinowannacode
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hi there! I'm Duy, a final-year Computer Science student who’s passionate about turning **code into solutions** and making **cool digital stuff**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+This repository is part of my personal journey to become a **mid-level developer**, and ultimately, a **problem-solver** in the tech world.
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 I love building web applications using **React**, **Node.js**, and **Tailwind CSS**.
+- 🤖 I'm also diving into **AI/ML**, and have trained custom models using **YOLOv8/YOLOv9**.
+- 📱 I automate things using **ADB**, **AutoInput**, and **JavaScript/Python scripting**.
+- 🎨 I care about clean UI and responsive design, so I use tools like **Vite**, **Web Components**, and **CSS Variables**.
+- 🚀 I enjoy building projects that are both useful and fun.
+
+---
+
+## 🧠 Skills & Tools
+
+- **Frontend**: React, HTML5, CSS3, Tailwind, Web Components
+- **Backend**: Node.js, Express, Flask
+- **AI/ML**: YOLOv8/YOLOv9, Python, OpenCV
+- **Automation**: ADB, AutoInput, Tasker, JS/Python Scripts
+- **Database**: MongoDB, MySQL
+- **Dev Tools**: Git, GitHub, Linux, VS Code
+- **Others**: React Native (basic), WinForms C#, Vite, GitHub Pages
+
+---
+
+## 📂 What's Inside This Repo?
+
+> A playground where I build things, break things, fix things, and learn things.
+
+- 🧪 Experiments with UI/UX and animations
+- 🧰 Tools and automation scripts
+- 📦 Components and modules I might reuse
+- 📚 Notes and learning logs (maybe)
+
+---
+
+## 🌱 My Goals
+
+- ✅ Build a professional portfolio site
+- ✅ Improve my CSS and responsive design
+- 🚧 Deploy more small projects to GitHub Pages
+- 🔜 Land a frontend or backend developer job!
+
+---
+
+## 📬 Contact
+
+If you want to chat, collaborate, or just say hi:
+
+- ✉️ Email: [your-email@example.com]
+- 🌐 Portfolio: [Coming soon...]
+- 🐙 GitHub: [github.com/HoNhatDuy](https://github.com/HoNhatDuy)
+
+---
+
+Thanks for stopping by! ⭐  
+Feel free to leave a star if you find this repo interesting or useful.
