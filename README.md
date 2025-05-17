@@ -52,7 +52,7 @@ This repository is part of my personal journey to become a **mid-level developer
 
 If you want to chat, collaborate, or just say hi:
 
-- ✉️ Email: [your-email@example.com]
+- ✉️ Email: [Hoonhatduy@example.com]
 - 🌐 Portfolio: [Coming soon...]
 - 🐙 GitHub: [github.com/HoNhatDuy](https://github.com/HoNhatDuy)
 
