@@ -52,9 +52,9 @@ This repository is part of my personal journey to become a **mid-level developer
 
 If you want to chat, collaborate, or just say hi:
 
-- ✉️ Email: [Hoonhatduy@example.com]
+- ✉️ Email: [hoonhatduy@gmail.com]
 - 🌐 Portfolio: [Coming soon...]
-- 🐙 GitHub: [github.com/HoNhatDuy](https://github.com/HoNhatDuy)
+- 🐙 Linkedin: [https://www.linkedin.com/in/hồ-nhật-duy-47a1b3247/]
 
 ---
 
